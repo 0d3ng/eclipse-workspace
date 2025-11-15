@@ -31,7 +31,9 @@ public class PersegiPanjang {
 		keliling = 2 * (panjang + lebar);
 
 //		tampilan hasil perhitungan
+		System.out.println("\n----------------------");
 		System.out.println("Luas 	= " + luas);
 		System.out.println("Keliling= " + keliling);
+		System.out.println("----------------------");
 	}
 }
