@@ -40,6 +40,7 @@ public class NilaiMahasiswa {
 		System.out.println("\n-------------------------------");
 		System.out.println("Nilai Angka Anda adalah "+nilaiAngka);
 		System.out.println("Nilai Huruf Anda adalah "+nilaiHuruf);
+		System.out.println("---------------------------------");
 
 	}
 }
